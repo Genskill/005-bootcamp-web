@@ -40,6 +40,4 @@ using `# TODO`. These tasks have to be completed for the app to work.
 
 1. It's not possible to mark a pet as sold now. This needs to be
    fixed.
-1.  
-   
 
