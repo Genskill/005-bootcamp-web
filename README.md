@@ -18,8 +18,10 @@ features are supported
 1. Create a virtualenv and activate it
 1. Install dependencies using `pip install -r requirements.txt`
 1. Setup application using `python setup.py develop`
+1. `export FLASK_APP=petshop` to set the application
 1. `flask initdb` to create the initial database
-1. `export FLASK_APP=petshop` and `flask run` to start the app. 
+1. `flask run` to start the app.
+
 
 You can also, instead of running the app, run the tests using `py.test`
 

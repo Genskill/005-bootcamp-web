@@ -11,7 +11,6 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 packaging==20.9
--e git+git@github.com:Genskill/005-bootcamp-web.git@96927f57988fd6fa128d8aad34fa5bbcb4ab7c6f#egg=petshop
 pkg-resources==0.0.0
 pluggy==0.13.1
 py==1.10.0
